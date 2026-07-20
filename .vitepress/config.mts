@@ -4,14 +4,14 @@ import sidebar from './sidebar'
 export default defineConfig({
   srcDir: 'docs',
   lang: 'zh-Hans',
-  title: 'Club Website',
-  description: '一个高自定义的社团官网',
+  title: '铁砧运维',
+  description: '福建省莆田第一中学',
   themeConfig: {
     nav: [
       {
-        text: '关于我们',
+        text: '了解社团',
         items: [
-          { text: '了解社团', link: '/about-us/', activeMatch: '/about-us' },
+          { text: '关于我们', link: '/about-us/', activeMatch: '/about-us' },
           { text: '加入我们', link: '/join-us/', activeMatch: '/join-us' },
         ]
       }

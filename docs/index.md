@@ -7,7 +7,7 @@ hero:
   tagline: "锻铁为剑"
   actions:
     - theme: brand
-      text: 了解社团
+      text: 关于我们
       link: /about-us/
     - theme: brand
       text: 加入我们
